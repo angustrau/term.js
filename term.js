@@ -1,3 +1,6 @@
+//Term.js
+//By Angus Trau
+
 (function() {
 	var colours = {
 	    1: "#F0F0F0",

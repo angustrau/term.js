@@ -1,4 +1,4 @@
-//Term.js
+//Term.js v1.0
 //By Angus Trau
 
 (function() {
